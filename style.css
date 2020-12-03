@@ -1,0 +1,22 @@
+.container {
+  padding-top: 130px;
+}
+.list {
+  list-style-type: none;
+  padding: 10px;
+}
+li {
+  background-color: brown;
+  border: 2px black;
+  color: #fff;
+}
+
+li:hover {
+  background-color: rgb(138, 125, 125);
+}
+li:active {
+  background-color: rgb(37, 34, 34);
+}
+.add {
+  background-color: black;
+}
